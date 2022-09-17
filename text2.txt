@@ -1,1 +1,1 @@
-push text2
+pull text2
